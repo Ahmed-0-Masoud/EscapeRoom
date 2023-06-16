@@ -1,0 +1,29 @@
+.start {
+    position: relative;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.startbutton {
+    position: fixed;
+    left: 45%;
+    bottom: 30%;
+    height: 60px;
+    width: 180px;
+    font-size: 40px;
+}
+
+.exitbutton {
+    position: fixed;
+    left: 45%;
+    bottom: 23%;
+    height: 60px;
+    width: 180px;
+    font-size: 40px;
+}
+
+.videostart {
+    position: fixed;
+    right: 0%;
+    width: 100%;
+}
